@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_contentpage1">contentpage1</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_contentpage2">contentpage2</string>
+    <string name="title_activity_contentpage3">contentpage3</string>
+    <string name="title_activity_list">list</string>
+    <string name="title_activity_mappage4">mappage4</string>
+    <string name="title_activity_mappage5">mappage5</string>
+    <string name="title_activity_restaurant1">restaurant1</string>
+    <string name="title_activity_restaurant2">restaurant2</string>
+    <string name="title_activity_restaurant3">restaurant3</string>
+    <string name="title_activity_restaurant4">restaurant4</string>
+    <string name="title_activity_restaurant5">restaurant5</string>
+    <string name="viewmap">View Map</string>
+    <string name="detailhint">Enter restaurant details</string>
+</resources>
